@@ -1,6 +1,5 @@
 # Gustavo-Vieira-Marinho
 
 # About Me 🌨️
-I am 18 years old and a young IT technician and technology student.
+Information Systems student at UFC and passionate about transforming ideas into digital solutions! I am a Junior Back-End Developer and I am looking to become a Development Analyst, with a strong focus on Java and MySQL.
 
-I am currently studying data analysis and back-end development in Java.
